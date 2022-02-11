@@ -41,6 +41,6 @@
 
 .text6{font-family: 'CircularStd'; font-style: normal; font-weight: 400; font-size: 18px; color: #B8B8B8; text-align: left; line-height: 1.27; width: 152px; margin: 0 0 60px 207px;}
 
-.footer{margin: 0 0 60px 207px;}    
+.footer{margin: 0 0 0 207px; padding-buttom: 60px}    
 
 
